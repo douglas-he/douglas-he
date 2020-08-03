@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Douglas github stats](https://github-readme-stats.vercel.app/api?username=douglas-he&show_icons=true&theme=dark)
+![Douglas github stats](https://github-readme-stats.vercel.app/api?username=douglas-he&show_icons=true&theme=highcontrast)
 <!--
 **douglas-he/douglas-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
